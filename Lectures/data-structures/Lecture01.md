@@ -1,21 +1,21 @@
 # What is Competitive Programming?
 
-Competitive Progranning (C.P.) is a mind sport or e.sport where all the partecipants are called competitive coders and their task iis to solve a specific number of exercises within a specific time. 
+Competitive Programming (C.P.) is a mind sport or e-sport where all the participants are called competitive coders and their task is to solve a specific number of exercises within a specific time. 
  
 ## Who am I ,Where and When did I start
 
 I am Davide Pollicino, Computer science student at the Edinburgh Napier university. 
-My passion for competitive programming started in 2016, during the third year of Secondary High school, where I have partecipated two times to the OIS(Olimpiadi di informatica a squadre / Competitive Programming Olimpics game in Team), being part of the [Hbfs team, 21st position in Italy and 2nd in Sicily](https://squadre.olinfo.it/edition/9/team/sic20)  
+My passion for competitive programming started in 2016, during my third year of Secondary High school, where I have participated two times to the OIS(Olimpiadi di informatica a square / Competitive Programming Olympics game in Team), being part of the [Hbfs team, 21st position in Italy and 2nd in Sicily](https://squadre.olinfo.it/edition/9/team/sic20)  
 
-Later on, during the COVID19 lookdown, I have decided to publish my solutions write these lectures for all the future Competitive Coders and keep practicing. 
+Later on, during the COVID-19 lookdown, I decided to publish my solutions write these lectures for all the future Competitive coders, and keep practicing. 
 
-Are you in Italy and you would like to start with a National competition between all the secondary high Schools? I have started from the [OIS](https://squadre.olinfo.it/).
-
-
-If you are asking yourself which one is the best platform for training, check the [updated list](../README.md).  Every platform has a different set of exercises, a different community and a different approach to the contests and theory so, use all of them to lean as much you can.     
+Are you in Italy, and you would like to start with a National competition between all the secondary schools? I have started from the [OIS](https://squadre.olinfo.it/).
 
 
-## Remeber, there are two types of people:
+If you are asking yourself which is the best training platform, check the [updated list](../README.md).  Every platform has a different set of exercises, a different community, and a different approach to the contests and theory, so use all of them to learn as much as you can.     
+
+
+## Remember, there are two types of people:
 ```
 int main(){                         int main()
                                     {
